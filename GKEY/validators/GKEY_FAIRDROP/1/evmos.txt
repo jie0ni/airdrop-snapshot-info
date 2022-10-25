@@ -2056,3 +2056,4 @@ evmos1pxwav0wsalka4muzuyz8n6hy643jut96kt07qz, 69, 0.00303
 evmos1kwcmry22umhudurj5eak8rrccp0sz8k4890tz4, 69, 0.00303
 evmos1hhhrtxar9t6qhny0xq6pnnaql9m3cy2m33jcpq, 100, 0.00303
 evmos1wef2lzpfqsfzz4t0anwrhx6p28ad292w6z986u, 69, 0.00303
+evmos1mlnpmmck7kd8dk5z9ytkn30e7v89wx422n3qz4, 69, 0.00303
